@@ -1,1 +1,2 @@
 # WADCLASS
+<h1>WAD CLASS</h1>
